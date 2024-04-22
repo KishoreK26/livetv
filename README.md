@@ -13,9 +13,8 @@ MUSIC TAB:
 MENU ITEMS:
 ![Screenshot (286)](https://github.com/KishoreK26/livetv/assets/142091922/feff7968-4e15-416e-8650-17de316ff28a)
 
-SCREEN ITEMS:
+SETTINGS:
 ![Screenshot (287)](https://github.com/KishoreK26/livetv/assets/142091922/b2416f56-5524-4d59-a39b-32bddb35dab5)
 
-SETTINGS:
 
 
